@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soulleague
-- 👀 I’m interested in Thailand
-- 🌱 I’m currently learning program
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
